@@ -1,1 +1,1 @@
-print("nin amman")
+print("nin amman ne kiyaaaaaa")
