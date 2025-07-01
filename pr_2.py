@@ -1,7 +1,7 @@
 
 def factorial(n1):
     if n1 < 0:
-        return "Factorial is not defined for negative numbers"
+        return "Factorial is nin amman"
     elif n1 == 0 or n1 == 1:
         return 1
     else:
